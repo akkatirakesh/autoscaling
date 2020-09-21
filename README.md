@@ -26,6 +26,10 @@
 
 In this module, we are creating a auto scaling group by taking the launch configuration from the github link where a launch template has been created.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 We have provided the outputs file.
 >>>>>>> autoscaling
+=======
+
+>>>>>>> 27e402277487d8bd002269b7afa2d324afde77e6
