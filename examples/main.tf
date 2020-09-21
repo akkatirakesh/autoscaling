@@ -18,11 +18,6 @@ module "asg" {
   subnet2 = var.subnet2
 }
 
-provider "aws" {
-  access_key="AKIAQAKEBHAJHA7JCNUV"
-  secret_key="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"
-  region = "us-east-1"
-}
 
 variable "subnet1" {
   default = "subnet-0a70fa34"
