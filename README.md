@@ -25,3 +25,4 @@
 | name | name of the auto scaling group |
 
 In this module, we are creating a auto scaling group by taking the launch configuration from the github link where a launch template has been created.
+We have provided the outputs file.
